@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&family=Roboto:wght@300;400&display=swap');
+// html
+$global-font-family: 'Roboto', sans-serif;
+$base-body-font-weight: 300;
+$global-line-height: 1.6;
+$global-border:#fddf00;
+$global-primary-color: #fddf00;
+$global-primary-background: #fddf00;
+$global-secondary-background: #111;
+// $global-font-size: 16px !default;
+// $global-color: #444;
+// $icon-button-background:red;
+// $global-border-width: 200px;
+// $global-background: #444;
+// $global-muted-color: #fddf00;
+// $global-link-color: #ca404f;
+
+// $base-link-hover-color: rgba(255,255,255,.7)!important;
+$base-link-hover-text-decoration: none;
+
+
+//seclection
+$base-selection-background: #111;
+
+//heading
+$base-heading-font-family: 'DM Sans', sans-serif;
+$base-heading-font-weight: 700;
+$base-heading-color: #111;
+$heading-line-width:200px;

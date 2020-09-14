@@ -10078,7 +10078,7 @@ iframe.uk-cover {
   z-index: 0;
   padding: 0 15px 15px 15px; }
 
-.theme-header :not(.uk-sticky-below) > .uk-navbar-container {
+.theme-page :not(.uk-sticky-below) > .uk-navbar-container {
   padding-top: 10px;
   padding-bottom: 10px; }
 
